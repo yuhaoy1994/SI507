@@ -1,0 +1,4 @@
+total 16
+-rw-r--r--  1 hyu  staff   7 Jan 20 12:13 README.md
+-rw-r--r--  1 hyu  staff  92 Jan 20 12:19 helloworld.py
+-rw-r--r--  1 hyu  staff   0 Jan 20 12:19 name.txt
